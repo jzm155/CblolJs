@@ -1,0 +1,681 @@
+[
+{
+'Lane': 'C',
+'Nome': 'Abaxial',
+'Pais': 'EstadosUnidos'
+},
+{
+'Lane': 'BOT',
+'Nome': 'Absolut',
+'Pais': 'Brasil'
+},
+{
+'Lane': 'JG',
+'Nome': 'Aegis',
+'Pais': 'Brasil'
+},
+{
+'Lane': 'SUP',
+'Nome': 'Aladoric',
+'Pais': 'Australia'
+},
+{
+'Lane': 'A',
+'Nome': 'Alocs',
+'Pais': 'Brasil'
+},
+{
+'Lane': 'MID',
+'Nome': 'Anyyy',
+'Pais': 'Brasil'
+},
+{
+'Lane': 'C',
+'Nome': 'Aoshi',
+'Pais': 'Brasil'
+},
+{
+'Lane': 'SUP',
+'Nome': 'Asper',
+'Pais': 'CoreiaDoSul'
+},
+{
+'Lane': 'JG',
+'Nome': 'Asta',
+'Pais': 'Brasil'
+},
+{
+'Lane': 'MID',
+'Nome': 'Avenger',
+'Pais': 'Brasil'
+},
+{
+'Lane': 'TOP',
+'Nome': 'Ayel',
+'Pais': 'Brasil'
+},
+{
+'Lane': 'TOP',
+'Nome': 'Bankai',
+'Pais': 'Brasil'
+},
+{
+'Lane': 'BOT',
+'Nome': 'Beenie',
+'Pais': 'Brasil'
+},
+{
+'Lane': 'C',
+'Nome': 'Beelzy',
+'Pais': 'Brasil'
+},
+{
+'Lane': 'TOP',
+'Nome': 'Betao',
+'Pais': 'Brasil'
+},
+{
+'Lane': 'C',
+'Nome': 'Bigfafa',
+'Pais': 'CoreiaDoSul'
+},
+{
+'Lane': 'MID',
+'Nome': 'Blacky',
+'Pais': 'Brasil'
+},
+{
+'Lane': 'TOP',
+'Nome': 'Boal',
+'Pais': 'Brasil'
+},
+{
+'Lane': 'SUP',
+'Nome': 'BocaJR',
+'Pais': 'Brasil'
+},
+{
+'Lane': 'SUP',
+'Nome': 'Bounty',
+'Pais': 'Brasil'
+},
+{
+'Lane': 'A',
+'Nome': 'BP',
+'Pais': 'Portugal'
+},
+{
+'Lane': 'BOT',
+'Nome': 'Brance',
+'Pais': 'Brasil'
+},
+{
+'Lane': 'A',
+'Nome': 'Brandao',
+'Pais': 'Brasil'
+},
+{
+'Lane': 'MID',
+'Nome': 'Brucer',
+'Pais': 'Brasil'
+},
+{
+'Lane': 'TOP',
+'Nome': 'Buggax',
+'Pais': 'Uruguai'
+},
+{
+'Lane': 'BOT',
+'Nome': 'Bydeki',
+'Pais': 'Brasil'
+},
+{
+'Lane': 'BOT',
+'Nome': 'brTT',
+'Pais': 'Brasil'
+},
+{
+'Lane': 'JG',
+'Nome': 'Bugi',
+'Pais': 'CoreiaDoSul'
+},
+{
+'Lane': 'BOT',
+'Nome': 'Bvoy',
+'Pais': 'CoreiaDoSul'
+},
+{
+'Lane': 'SUP',
+'Nome': 'Cabu',
+'Pais': 'Brasil'
+},
+{
+'Lane': 'TOP',
+'Nome': 'Canna',
+'Pais': 'CoreiaDoSul'
+},
+{
+'Lane': 'A',
+'Nome': 'Caos',
+'Pais': 'Brasil'
+},
+{
+'Lane': 'JG',
+'Nome': 'CarioK',
+'Pais': 'Brasil'
+},
+{
+'Lane': 'SUP',
+'Nome': 'Cavalo',
+'Pais': 'Brasil'
+},
+{
+'Lane': 'SUP',
+'Nome': 'Ceos',
+'Pais': 'Brasil'
+},
+{
+'Lane': 'BOT',
+'Nome': 'Celo',
+'Pais': 'Brasil'
+},
+{
+'Lane': 'MID',
+'Nome': 'Cepted',
+'Pais': 'CoreiaDoSul'
+},
+{
+'Lane': 'C',
+'Nome': 'Coelho',
+'Pais': 'Brasil'
+},
+{
+'Lane': 'JG',
+'Nome': 'Croc',
+'Pais': 'CoreiaDoSul'
+},
+{
+'Lane': 'C',
+'Nome': 'Crowe',
+'Pais': 'EstadosUnidos'
+},
+{
+'Lane': 'TOP',
+'Nome': 'CuVee',
+'Pais': 'CoreiaDoSul'
+},
+{
+'Lane': 'SUP',
+'Nome': 'Damage',
+'Pais': 'Brasil'
+},
+{
+'Lane': 'SUP',
+'Nome': 'Decoy',
+'Pais': 'NovaZelandia'
+},
+{
+'Lane': 'JG',
+'Nome': 'Diamondprox',
+'Pais': 'Russia'
+},
+{
+'Lane': 'C',
+'Nome': 'Dionrray',
+'Pais': 'Brasil'
+},
+{
+'Lane': 'JG',
+'Nome': 'Disamis',
+'Pais': 'Brasil'
+},
+{
+'Lane': 'BOT',
+'Nome': 'Disave',
+'Pais': 'Brasil'
+},
+{
+'Lane': 'C',
+'Nome': 'Djoko',
+'Pais': 'Brasil'
+},
+{
+'Lane': 'JG',
+'Nome': 'DonArts',
+'Pais': 'Alemanha'
+},
+{
+'Lane': 'TOP',
+'Nome': 'DoRun',
+'Pais': 'CoreiaDoSul'
+},
+{
+'Lane': 'BOT',
+'Nome': 'Drop',
+'Pais': 'Brasil'
+},
+{
+'Lane': 'BOT',
+'Nome': 'DudsTheBoy',
+'Pais': 'Brasil'
+},
+{
+'Lane': 'MID',
+'Nome': 'Dynquedo',
+'Pais': 'Brasil'
+},
+{
+'Lane': 'C',
+'Nome': 'Edward',
+'Pais': 'Armenia'
+},
+{
+'Lane': 'JG',
+'Nome': 'Elramir',
+'Pais': 'Turquia'
+},
+{
+'Lane': 'MID',
+'Nome': 'Enga',
+'Pais': 'Argentina'
+},
+{
+'Lane': 'MID',
+'Nome': 'Envy',
+'Pais': 'Brasil'
+},
+{
+'Lane': 'JG',
+'Nome': 'Erasus',
+'Pais': 'Brasil'
+},
+{
+'Lane': 'SUP',
+'Nome': 'eSa',
+'Pais': 'Brasil'
+},
+{
+'Lane': 'MID',
+'Nome': 'Evrot',
+'Pais': 'Brasil'
+},
+{
+'Lane': 'TOP',
+'Nome': 'Expect',
+'Pais': 'CoreiaDoSul'
+},
+{
+'Lane': 'BOT',
+'Nome': 'Flare',
+'Pais': 'Brasil'
+},
+{
+'Lane': 'TOP',
+'Nome': 'fnB',
+'Pais': 'Brasil'
+},
+{
+'Lane': 'JG',
+'Nome': 'Follow',
+'Pais': 'Argentina'
+},
+{
+'Lane': 'JG',
+'Nome': 'FrostStrike',
+'Pais': 'Chile'
+},
+{
+'Lane': 'A',
+'Nome': 'Furyz',
+'Pais': 'Brasil'
+},
+{
+'Lane': 'C',
+'Nome': 'Gafone',
+'Pais': 'Brasil'
+},
+{
+'Lane': 'BOT',
+'Nome': 'Garo',
+'Pais': 'Brasil'
+},
+{
+'Lane': 'JG',
+'Nome': 'GeumGo',
+'Pais': 'CoreiaDoSul'
+},
+{
+'Lane': 'MID',
+'Nome': 'Goku',
+'Pais': 'Brasil'
+},
+{
+'Lane': 'JG',
+'Nome': 'Goot',
+'Pais': 'Brasil'
+},
+{
+'Lane': 'JG',
+'Nome': 'Grell',
+'Pais': 'Mexico'
+},
+{
+'Lane': 'MID',
+'Nome': 'Grevthar',
+'Pais': 'Brasil'
+},
+{
+'Lane': 'SUP',
+'Nome': 'Guard',
+'Pais': 'CoreiaDoSul'
+},
+{
+'Lane': 'TOP',
+'Nome': 'Guigo',
+'Pais': 'Brasil'
+},
+{
+'Lane': 'BOT',
+'Nome': 'Hades',
+'Pais': 'CoreiaDoSul'
+},
+{
+'Lane': 'SUP',
+'Nome': 'Harumi',
+'Pais': 'Brasil'
+},
+{
+'Lane': 'A',
+'Nome': 'Halier',
+'Pais': 'Brasil'
+},
+{
+'Lane': 'MID',
+'Nome': 'Hauz',
+'Pais': 'Brasil'
+},
+{
+'Lane': 'SUP',
+'Nome': 'Hawk',
+'Pais': 'Brasil'
+},
+{
+'Lane': 'TOP',
+'Nome': 'Hidan',
+'Pais': 'Brasil'
+},
+{
+'Lane': 'C',
+'Nome': 'Hiro',
+'Pais': 'CoreiaDoSul'
+},
+{
+'Lane': 'JG',
+'Nome': 'Hugato',
+'Pais': 'Brasil'
+},
+{
+'Lane': 'TOP',
+'Nome': 'JackPot',
+'Pais': 'CoreiaDoSul'
+},
+{
+'Lane': 'MID',
+'Nome': 'Jean Mago',
+'Pais': 'Brasil'
+},
+{
+'Lane': 'TOP',
+'Nome': 'Jisu',
+'Pais': 'CoreiaDoSul'
+},
+{
+'Lane': 'SUP',
+'Nome': 'Jockster',
+'Pais': 'Brasil'
+},
+{
+'Lane': 'SUP',
+'Nome': 'JoJo',
+'Pais': 'Brasil'
+},
+{
+'Lane': 'A',
+'Nome': 'Juc',
+'Pais': 'Brasil'
+},
+{
+'Lane': 'BOT',
+'Nome': 'Juliera',
+'Pais': 'Brasil'
+},
+{
+'Lane': 'BOT',
+'Nome': 'Juzo',
+'Pais': 'Brasil'
+},
+{
+'Lane': 'JG',
+'Nome': 'KaKaO',
+'Pais': 'CoreiaDoSul'
+},
+{
+'Lane': 'C',
+'Nome': 'Kalec',
+'Pais': 'Brasil'
+},
+{
+'Lane': 'TOP',
+'Nome': 'Kennedys',
+'Pais': 'Brasil'
+},
+{
+'Lane': 'A',
+'Nome': 'Khorn',
+'Pais': 'Brasil'
+},
+{
+'Lane': 'TOP',
+'Nome': 'Kiari',
+'Pais': 'Brasil'
+},
+{
+'Lane': 'MID',
+'Nome': 'Kick',
+'Pais': 'Brasil'
+},
+{
+'Lane': 'C',
+'Nome': 'Kim',
+'Pais': 'Brasil'
+},
+{
+'Lane': 'A',
+'Nome': 'Kira',
+'Pais': 'Brasil'
+},
+{
+'Lane': 'MID',
+'Nome': 'Krastyel',
+'Pais': 'Brasil'
+},
+{
+'Lane': 'SUP',
+'Nome': 'Kuri',
+'Pais': 'CoreiaDoSul'
+},
+{
+'Lane': 'TOP',
+'Nome': 'Lapis',
+'Pais': 'CoreiaDoSul'
+},
+{
+'Lane': 'TOP',
+'Nome': 'Lonely',
+'Pais': 'CoreiaDoSul'
+},
+{
+'Lane': 'C',
+'Nome': 'Loreviz',
+'Pais': 'Brasil'
+},
+{
+'Lane': 'SUP',
+'Nome': 'Luci',
+'Pais': 'CoreiaDoSul'
+},
+{
+'Lane': 'BOT',
+'Nome': 'Luskka',
+'Pais': 'Brasil'
+},
+{
+'Lane': 'C',
+'Nome': 'Maestro',
+'Pais': 'Brasil'
+},
+{
+'Lane': 'BOT',
+'Nome': 'Matsu',
+'Pais': 'Brasil'
+},
+{
+'Lane': 'JG',
+'Nome': 'Mewkyo',
+'Pais': 'Brasil'
+},
+{
+'Lane': 'BOT',
+'Nome': 'micaO',
+'Pais': 'Brasil'
+},
+{
+'Lane': 'MID',
+'Nome': 'Mickey',
+'Pais': 'CoreiaDoSul'
+},
+{
+'Lane': 'SUP',
+'Nome': 'Mido',
+'Pais': 'Brasil'
+},
+{
+'Lane': 'BOT',
+'Nome': 'Mills',
+'Pais': 'Brasil'
+},
+{
+'Lane': 'JG',
+'Nome': 'Minerva',
+'Pais': 'Brasil'
+},
+{
+'Lane': 'SUP',
+'Nome': 'Mocha',
+'Pais': 'CoreiaDoSul'
+},
+{
+'Lane': 'BOT',
+'Nome': 'Netuno',
+'Pais': 'Brasil'
+},
+{
+'Lane': 'SUP',
+'Nome': 'Newbie',
+'Pais': 'Argentina'
+},
+{
+'Lane': 'BOT',
+'Nome': 'NinjaKiwi',
+'Pais': 'Brasil'
+},
+{
+'Lane': 'A',
+'Nome': 'Nishikino',
+'Pais': 'Brasil'
+},
+{
+'Lane': 'MID',
+'Nome': 'NosFerus',
+'Pais': 'Brasil'
+},
+{
+'Lane': 'C',
+'Nome': 'Nova',
+'Pais': 'Turquia'
+},
+{
+'Lane': 'C',
+'Nome': 'Nuddle',
+'Pais': 'Canada'
+},
+{
+'Lane': 'JG',
+'Nome': 'Oddie',
+'Pais': 'Peru'
+},
+{
+'Lane': 'A',
+'Nome': 'Onmeta',
+'Pais': 'Brasil'
+},
+{
+'Lane': 'C',
+'Nome': 'Pades',
+'Pais': 'Turquia'
+},
+{
+'Lane': 'TOP',
+'Nome': 'Parang',
+'Pais': 'CoreiaDoSul'
+},
+{
+'Lane': 'BOT',
+'Nome': 'pbO',
+'Pais': 'Brasil'
+},
+{
+'Lane': 'MID',
+'Nome': 'Piloto',
+'Pais': 'Brasil'
+},
+{
+'Lane': 'MID',
+'Nome': 'Pirean',
+'Pais': 'CoreiaDoSul'
+},
+{
+'Lane': 'A',
+'Nome': 'Pit',
+'Pais': 'Brasil'
+},
+{
+'Lane': 'C',
+'Nome': 'Politico',
+'Pais': 'Brasil'
+},
+{
+'Lane': 'SUP',
+'Nome': 'ProDelta',
+'Pais': 'Brasil'
+},
+{
+'Lane': 'SUP',
+'Nome': 'Professor',
+'Pais': 'Brasil'
+},
+{
+'Lane': 'A',
+'Nome': 'RafaP',
+'Pais': 'Brasil'
+},
+{
+'Lane': 'MID',
+'Nome': 'Rainbow',
+'Pais': 'CoreiaDoSul'
+},
+{
+'Lane': 'JG',
+'Nome': 'Ranger',
+'Pais': 'Brasil'
+},

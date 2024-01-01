@@ -1,0 +1,8 @@
+let TOP = new Lane(1,"TOP","toplane");
+let JG = new Lane(2,"JG","jungle");
+let MID = new Lane(3,"MID","midlane");
+let BOT = new Lane(4,"BOT","botlane");
+let SUP = new Lane(5,"SUP","support");
+let C = new Lane(6,"C","coach");
+let A = new Lane(7,"A","analista");
+let HC = new Lane(7,"HC");

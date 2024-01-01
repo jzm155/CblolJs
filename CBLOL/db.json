@@ -1,0 +1,54 @@
+{
+    "times": [
+      {
+        "id": 1,
+        "nome": "Flamengo",
+        "sigla": "FLA"
+      },
+      {
+        "id": 2,
+        "nome": "Furia",
+        "sigla": "FUR"
+      },
+      {
+        "id": 3,
+        "nome": "INTZ",
+        "sigla": "ITZ"
+      },
+      {
+        "id": 4,
+        "nome": "KaBuM",
+        "sigla": "KBM"
+      },
+      {
+        "id": 5,
+        "nome": "LOUD",
+        "sigla": "LLL"
+      },
+      {
+        "id": 6,
+        "nome": "Netshoes Miners",
+        "sigla": "MNS"
+      },
+      {
+        "id": 7,
+        "nome": "PaiN Gaming",
+        "sigla": "PNG"
+      },
+      {
+        "id": 8,
+        "nome": "RED Canids",
+        "sigla": "RED"
+      },
+      {
+        "id": 9,
+        "nome": "Rensga",
+        "sigla": "RNS"
+      },
+      {
+        "id": 10,
+        "nome": "Liberty",
+        "sigla": "LBT"
+      }
+    ]
+  }
