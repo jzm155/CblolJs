@@ -590,3 +590,5 @@ criarTabela(Times);
 document.write('</div>');
 
 cardTimes();
+
+/*teste*/
